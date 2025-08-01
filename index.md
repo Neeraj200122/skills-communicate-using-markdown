@@ -7,3 +7,5 @@
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
+ ```python def greet(name): return f"Hello, {name}!" print(greet("world")) ``` 
+
